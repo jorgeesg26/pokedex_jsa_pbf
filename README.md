@@ -1,1 +1,2 @@
+POKEDEX HECHA POR PACO BARRIONUEVO FLORES Y JORGE SALGUERO ABAD
 https://jorgeesg26.github.io/pokedex_jsa_pbf/
